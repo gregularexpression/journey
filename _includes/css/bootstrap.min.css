@@ -3628,7 +3628,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
     border-color:transparent
 }
 .navbar-default .navbar-brand{
-    color:#ffffff
+    color:#f59a3d
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus{
     color:#{
@@ -3643,7 +3643,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
     color:#777777
 }
 .navbar-default .navbar-nav>li>a{
-    color:#ffffff
+    color:#f59a3d
 }
 .navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus{
     color:#{
