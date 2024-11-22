@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-11-21T20:01:45-05:00</updated>
+  <updated>2024-11-22T13:17:30-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -109,6 +109,40 @@
 
       
         <category term="Personal Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Memory</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Memory" />
+      <published>2024-09-01T00:00:00-04:00</published>
+      <updated>2024-09-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/memory</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="App Development" />
       
 
       
