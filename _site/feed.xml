@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-11-25T16:55:54-05:00</updated>
+  <updated>2024-11-26T15:21:46-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -27,7 +27,7 @@
       <id>http://localhost:4000/2048</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;h2 id=&quot;time-killing-on-eks&quot;&gt;Time killing on EKS!&lt;/h2&gt;
 
-&lt;p&gt;In trying to learn more about EKS, I created this fun little game.  See it &lt;a href=&quot;https://2048.gregularexpression.com&quot; target=&quot;_new&quot;&gt;here&lt;/a&gt;.  Be warned, you may spend more time that you realize/want to playing.  Source of the idea &lt;a href=&quot;https://www.youtube.com/watch?v=wyad99QMKtc&quot; target=&quot;_new&quot;&gt;was this&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;In trying to learn more about EKS, I created this fun little game.  See it &lt;a href=&quot;http://2048.gregularexpression.com&quot; target=&quot;_new&quot;&gt;here&lt;/a&gt;.  Be warned, you may spend more time that you realize/want to playing.  Source of the idea &lt;a href=&quot;https://www.youtube.com/watch?v=wyad99QMKtc&quot; target=&quot;_new&quot;&gt;was this&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -61,7 +61,7 @@
       <published>2024-11-20T00:00:00-05:00</published>
       <updated>2024-11-20T00:00:00-05:00</updated>
       <id>http://localhost:4000/website</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;you’re currently looking at &lt;a href=&quot;http://www.gregularexpression.com&quot;&gt;here&lt;/a&gt; &amp;lt;p&amp;gt;Components used &lt;br /&gt;&lt;br /&gt; &amp;lt;table border=&quot;0&quot;&amp;gt;&amp;lt;th&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&lt;b&gt;Component&lt;/b&gt;&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&lt;b&gt;Use&lt;/b&gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&lt;a href=&quot;https://www.github.com&quot; target=&quot;_new&quot;&gt;GitHub&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Website source files, powered by Pages&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&lt;a href=&quot;https://www.aws.com&quot; target=&quot;_new&quot;&gt;AWS&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Domain registration, DNS records&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&lt;a href=&quot;https://www.canva.com&quot; target=&quot;_new&quot;&gt;Canva&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;graphics&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; target=&quot;_new&quot;&gt;Visual Studio Code&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt; editing MD files and testing locally&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&lt;a href=&quot;https://jeromelachaud.com/freelancer-theme/&quot; target=&quot;_new&quot;&gt;Freelander&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;initial website template&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -82,7 +82,7 @@
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">you’re currently looking at here &amp;lt;p&amp;gt;Components used &amp;lt;table border=&quot;0&quot;&amp;gt;&amp;lt;th&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;Component&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Use&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;GitHub&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Website source files, powered by Pages&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;AWS&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Domain registration, DNS records&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;Canva&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;graphics&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;Visual Studio Code&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt; editing MD files and testing locally&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;Freelander&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;initial website template&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;</summary>
       
 
       
@@ -95,7 +95,9 @@
       <published>2024-11-01T00:00:00-04:00</published>
       <updated>2024-11-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/lightbulb</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2 id=&quot;the-square-problem&quot;&gt;The square problem&lt;/h2&gt;
+
+&lt;p&gt;Solving the perfect square problem with AWS services.  &lt;br /&gt;&lt;br /&gt;See it &lt;a href=&quot;https://lightbulb.gregularexpression.com&quot; target=&quot;_new&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       
@@ -116,7 +118,7 @@
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">The square problem</summary>
       
 
       
@@ -163,7 +165,9 @@
       <published>2024-09-01T00:00:00-04:00</published>
       <updated>2024-09-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/memory</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2 id=&quot;memory-done-with-memes&quot;&gt;Memory, done with memes!&lt;/h2&gt;
+
+&lt;p&gt;In preparation for the AWS Solutions Architect - Associate certification.  &lt;br /&gt;&lt;br /&gt;See it &lt;a href=&quot;https://gregomaticgaming.s3.us-east-1.amazonaws.com/index.html&quot; target=&quot;_new&quot;&gt;in action&lt;/a&gt;.  &lt;br /&gt;&lt;br /&gt;Source of the idea &lt;a href=&quot;https://www.youtube.com/watch?v=biYVW1TMYAU&quot; target=&quot;_new&quot;&gt;was this&lt;/a&gt; and my repo &lt;a href=&quot;https://github.com/gregomatic/codepipeline-s3-game&quot; target=&quot;_new&quot;&gt;sits here&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -184,7 +188,7 @@
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">Memory, done with memes!</summary>
       
 
       
@@ -199,7 +203,7 @@
       <id>http://localhost:4000/mathinator</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;h2 id=&quot;the-power-of-exponents&quot;&gt;The power of exponents!&lt;/h2&gt;
 
-&lt;p&gt;In preparation for the AWS Solutions Architect - Associate certification.  See it &lt;a href=&quot;https://mathinator.gregularexpression.com&quot; target=&quot;_new&quot;&gt;here&lt;/a&gt;.  Source of the idea &lt;a href=&quot;https://www.youtube.com/watch?v=7m_q1ldzw0U&quot; target=&quot;_new&quot;&gt;was this&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;In preparation for the AWS Solutions Architect - Associate certification.  &lt;br /&gt;&lt;br /&gt;See it &lt;a href=&quot;https://mathinator.gregularexpression.com&quot; target=&quot;_new&quot;&gt;here&lt;/a&gt;.  &lt;br /&gt;&lt;br /&gt;Source of the idea &lt;a href=&quot;https://www.youtube.com/watch?v=7m_q1ldzw0U&quot; target=&quot;_new&quot;&gt;was this&lt;/a&gt;.&lt;/p&gt;</content>
 
       
       

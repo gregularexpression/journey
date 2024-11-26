@@ -7,5 +7,8 @@ alt: image-alt
 project-date: November 2014
 client: gregularexpression
 category: Web Development
-description: This project is for the website that you're currently looking at <a href="http://www.gregularexpression.com">here</a> <p>Components used <br /><br /> <table border="0"><th><tr><td><b>Component</b></td><td><b>Use</b></td></tr><tr><td><a href="https://www.github.com" target="_new">GitHub</td><td>Website source files, powered by Pages</td></tr><tr><td><a href="https://www.aws.com" target="_new">AWS</td><td>Domain registration, DNS records</td></tr><tr><td><a href="https://www.canva.com" target="_new">Canva</td><td>graphics</td></tr><tr><td><a href="https://code.visualstudio.com/" target="_new">Visual Studio Code</td><td> editing MD files and testing locally</td></tr><tr><td><a href="https://jeromelachaud.com/freelancer-theme/" target="_new">Freelander</td><td>initial website template</td></tr></table>
+description: This project is for the website that 
 ---
+
+
+you're currently looking at <a href="http://www.gregularexpression.com">here</a> <p>Components used <br /><br /> <table border="0"><th><tr><td><b>Component</b></td><td><b>Use</b></td></tr><tr><td><a href="https://www.github.com" target="_new">GitHub</td><td>Website source files, powered by Pages</td></tr><tr><td><a href="https://www.aws.com" target="_new">AWS</td><td>Domain registration, DNS records</td></tr><tr><td><a href="https://www.canva.com" target="_new">Canva</td><td>graphics</td></tr><tr><td><a href="https://code.visualstudio.com/" target="_new">Visual Studio Code</td><td> editing MD files and testing locally</td></tr><tr><td><a href="https://jeromelachaud.com/freelancer-theme/" target="_new">Freelander</td><td>initial website template</td></tr></table>
