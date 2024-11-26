@@ -12,4 +12,4 @@ category: App Development
 
 ## Time killing on EKS!
 
-In trying to learn more about EKS, I created this fun little game.  See it <a href="https://2048.gregularexpression.com" target="_new">here</a>.  Be warned, you may spend more time that you realize/want to playing.  Source of the idea <a href="https://www.youtube.com/watch?v=wyad99QMKtc" target="_new">was this</a>.
+In trying to learn more about EKS, I created this fun little game.  See it <a href="http://2048.gregularexpression.com" target="_new">here</a>.  Be warned, you may spend more time that you realize/want to playing.  Source of the idea <a href="https://www.youtube.com/watch?v=wyad99QMKtc" target="_new">was this</a>.

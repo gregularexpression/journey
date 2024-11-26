@@ -7,5 +7,9 @@ alt: image-alt
 project-date: September 2014
 client: gregularexpression
 category: App Development
-description: Side project to get better at AWS services, in preparation for the AWS Solutions Architect - Associate certification.  See it <a href="https://gregomaticgaming.s3.us-east-1.amazonaws.com/index.html" target="_new">in action</a>.  Source of the idea <a href="https://www.youtube.com/watch?v=biYVW1TMYAU" target="_new">was this</a> and my repo <a href="https://github.com/gregomatic/codepipeline-s3-game" target="_new">sits here</a>.
+description: Side project to get better at AWS services.
 ---
+
+## Memory, done with memes! ##
+
+In preparation for the AWS Solutions Architect - Associate certification.  <br /><br />See it <a href="https://gregomaticgaming.s3.us-east-1.amazonaws.com/index.html" target="_new">in action</a>.  <br /><br />Source of the idea <a href="https://www.youtube.com/watch?v=biYVW1TMYAU" target="_new">was this</a> and my repo <a href="https://github.com/gregomatic/codepipeline-s3-game" target="_new">sits here</a>
